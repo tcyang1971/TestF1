@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "514298728562",
+    "firebase_url": "https://tcyangmis.firebaseio.com",
+    "project_id": "tcyangmis",
+    "storage_bucket": "tcyangmis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514298728562:android:181841ea1cf8a8f618b2eb",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.csim.tcyang.bitmaptostorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514298728562-7klqc3i98ffv01n1608hbrkeopsfojc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnXt49qm_bqRKXriuLyOXUSDaxkjcM_dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514298728562-7klqc3i98ffv01n1608hbrkeopsfojc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514298728562:android:9e4c49964df72a7a18b2eb",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.csim.tcyang.bitmaptostorage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514298728562-7klqc3i98ffv01n1608hbrkeopsfojc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnXt49qm_bqRKXriuLyOXUSDaxkjcM_dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514298728562-7klqc3i98ffv01n1608hbrkeopsfojc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514298728562:android:4d57dccb23b5102318b2eb",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.csim.tcyang.testf1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514298728562-7klqc3i98ffv01n1608hbrkeopsfojc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnXt49qm_bqRKXriuLyOXUSDaxkjcM_dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514298728562-7klqc3i98ffv01n1608hbrkeopsfojc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
